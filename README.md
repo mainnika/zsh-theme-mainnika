@@ -1,3 +1,6 @@
+![How it looks like in iTerm](.docs/iterm.png)
+![How it looks like in Gnome](.docs/gnome-term.png)
+
 # Mainnika ZSH Theme
 
 Yet another theme for *oh-my-zsh* that heats up your python. The theme uses a python script to inform you about LA1 LA5 LA15. Python-way makes this theme cross-platform (linux/macos).
